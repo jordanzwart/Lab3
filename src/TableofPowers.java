@@ -24,7 +24,7 @@ public class TableofPowers {
 		// if the input is bigger than 0 it will start the code and start creating the table 	
 			if(num > 0) {
 				String table = "";
-				table += "Number\t square\t cube\n";
+				table += "Number\t Square\t Cube\n";
 				table += "======\t ======\t ======\t\n";
 		//using a for loop we need to find the squared and cubed answers of the range of numbers from 1 to the user input
 		//for example if we use 5 we will print the square and cubed answers of the numbers 1-5	and place them in table	
@@ -45,7 +45,6 @@ public class TableofPowers {
 		}
 		
 		System.out.println("Goodbye");
-				
 				
 				
 
